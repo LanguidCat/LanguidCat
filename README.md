@@ -1,4 +1,6 @@
 ### Hi there 👋
+### We could be friends!! 👯
+##### At least if you want it..
 
 <!--
 **LanguidCat/LanguidCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
