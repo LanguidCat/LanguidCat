@@ -1,6 +1,4 @@
-### Welcome to my Github 👋
-### We could be friends! 👯
-##### At least if you want it..
+# 애증의 코딩
 
 <!--
 **LanguidCat/LanguidCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
