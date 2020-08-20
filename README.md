@@ -1,5 +1,5 @@
-### Hi there 👋
-### We could be friends!! 👯
+### Welcome to my Github 👋
+### We could be friends! 👯
 ##### At least if you want it..
 
 <!--
