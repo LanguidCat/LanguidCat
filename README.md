@@ -1,4 +1,4 @@
-<img src="https://github.com/LanguidCat/LanguidCat/blob/master/giphy.gif>
+<img src="https://github.com/LanguidCat/LanguidCat/blob/master/giphy.gif">
 
 <!--
 **LanguidCat/LanguidCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
