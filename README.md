@@ -1,5 +1,4 @@
-
-![languid](https://user-images.githubusercontent.com/45219806/99810668-69c48c00-2b87-11eb-9273-529b56c83671.jpg width="30px")
+<img src="https://github.com/LanguidCat/LanguidCat/giphy.gif>
 
 <!--
 **LanguidCat/LanguidCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
